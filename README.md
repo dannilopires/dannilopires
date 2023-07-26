@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dannilopires&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannilopires&layout=donut-vertical&theme=cobalt&card_width=200"" />
-</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannilopires&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
